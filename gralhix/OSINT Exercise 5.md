@@ -13,11 +13,13 @@ c) What were the exact coordinates of where the bears were lying down?
 1. I started with reverse image searching with Google lens.
 2. I found a Facebook page containing a video of polar bears in San Diego Zoo
 3. After comparing the original image, to the image of the San Diego Zoo, I knew this was the correct location.
+
 **Location: San Diego Zoo**
 
 #### Finding out the temperature
 1. At first, I had no idea on how I would find out the temperature of the day.
 2. I went to the previous Facebook post and saw a temperature in the title: 62 Fahrenheit. I assumed that is the temperature
+
 **Temperature: 62 Fahrenheit**
 
 #### Finding out the exact coordinates of the bears
