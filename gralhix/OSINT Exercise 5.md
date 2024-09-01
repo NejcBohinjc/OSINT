@@ -27,4 +27,5 @@ c) What were the exact coordinates of where the bears were lying down?
 2. I opened Google Maps and typed in: San Diego Zoo polar bears
 3. Maps lead me to Polar Bear Plunge
 4. After some doing some comparing between the satellite view and the image from the exercise, I was able to locate the exact coordinates.
+
 **The exact coordinates: 32.734487, -117.154595**
