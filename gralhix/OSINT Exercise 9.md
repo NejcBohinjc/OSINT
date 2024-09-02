@@ -12,7 +12,8 @@ b) Find the coordinates of where the person was walking at the time of the recor
 - I checked the twitter video and underneath it said 10:07 PM, February 16, 2023.
 - I assumed the date and time of the video posted were similar to the time of recording so that was my answer.
 
-**Time of recording: 10:07 PM, February 16, 2023.** Note: The date is correct, but the time isn't. I should've gone to the photographer's page and inspect the post. The backend contains all of the information required about the time. The date was correct, but the time wasn't. The correct time is: 4:48 PM.
+**Time of recording: 10:07 PM, February 16, 2023.** <br>
+Note: The date is correct, but the time isn't. I should've gone to the photographer's page and inspect the post. The backend contains all of the information required about the time. The date was correct, but the time wasn't. The correct time is: 4:48 PM.
 
 #### Finding out the exact coordinates of the location
 - I first inspected the video, to see if there is any helpful information that I could use to search for the location.
